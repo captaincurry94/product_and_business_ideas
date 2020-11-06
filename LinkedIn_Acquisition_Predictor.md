@@ -1,8 +1,8 @@
-# PROBLEM
+# Problem
 If investors new of certain acquisitions ahead of time, they could adapt their investment strategy respectively before the market reacts to the announcment of an acquisition.
 Especially in the startup world, it is important to know what your competition and investment prospects are up to. 
 
-# SOLUTION
+# Solution
 I remember having read that a hedge fund foresaw an acquisition because they tracked the movements of the corporate jet on a flight tracker application and observed multiple visits at airports close to a possible acquisition target. 
 When I was working for a company that was planning a strategic acquisition, the public almost got to know about it too early because a significant number of employees from each company started connecting on platforms like LinkedIn in a short time span. I believe that this type of event might happen in other transactions as well. 
 
@@ -16,6 +16,11 @@ The same algorithm might also be useful to observe the employee churn rate and h
 * Build network analysis where each company is a node and strength of each connection between company is determined by the number of employees that are connected on LinkedIn.
 * Build outlier detection script and observe connections over time. When number of connections suddenly peak, something might be going on. 
 
-# CUSTOMERS
+# Customers
 * Professional investors like family offices, hedge funds or venture capital firms
 * M&A consultancies might also be interested in the reports
+
+# Revenue model = subscription
+* Sell weekly reportings on a monthly basis
+* Adding prospect companies to the report increases the monthly fee
+* For premium pricing, customers can get daily reportings and immediate urgency alerts when the algorithm detects increased activities.
