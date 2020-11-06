@@ -24,3 +24,11 @@ The same algorithm might also be useful to observe the employee churn rate and h
 * Sell weekly reportings on a monthly basis
 * Adding prospect companies to the report increases the monthly fee
 * For premium pricing, customers can get daily reportings and immediate urgency alerts when the algorithm detects increased activities.
+
+# Pros
+* Rather easy to maintain once built
+* Little money required to start and run the project
+
+# Cons
+* Very small customer segment that is hard to reach and sell to
+* How to determine fair pricing having so few customers
